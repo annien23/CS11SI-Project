@@ -151,7 +151,7 @@ MonoBehaviour:
   m_BlockUIOnInteractableSelection: 1
   m_AllowAnchorControl: 1
   m_UseForceGrab: 0
-  m_RotateSpeed: 0
+  m_RotateSpeed: 50
   m_TranslateSpeed: 3
   m_AnchorRotateReferenceFrame: {fileID: 0}
   m_AnchorRotationMode: 0
