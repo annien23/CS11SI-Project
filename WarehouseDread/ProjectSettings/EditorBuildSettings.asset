@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/WORKING/Annie/Scenes/Warehouse Template.unity
     guid: 3ebb18a59bde14865903dddf3cc07328
   - enabled: 1
-    path: Assets/WORKING/Annie/Scenes/Intro.unity
+    path: Assets/INTEGRATED/Scenes/Intro_MERGED.unity
     guid: 7249872f4ee294206b5abb18b5575148
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 77815532c493f4622a14a710006267ae,
